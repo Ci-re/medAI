@@ -1,0 +1,156 @@
+2025-08-07 06:58:43,054 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 06:58:43,136 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-07 06:58:43,137 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 07:00:26,919 - __main__ - INFO - Initializing medical knowledge base...
+2025-08-07 07:00:30,728 - __main__ - INFO - Added 6 documents to vector store
+2025-08-07 07:00:30,729 - __main__ - INFO - Medical knowledge base initialized successfully
+2025-08-07 07:00:30,748 - __main__ - INFO - System health check passed
+2025-08-07 07:02:03,987 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:02:04,033 - __main__ - INFO - System health check passed
+2025-08-07 07:02:06,639 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:02:06,641 - __main__ - INFO - System health check passed
+2025-08-07 07:02:34,682 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:02:34,706 - __main__ - INFO - System health check passed
+2025-08-07 07:02:35,853 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:02:35,855 - __main__ - INFO - System health check passed
+2025-08-07 07:08:16,636 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:08:16,674 - __main__ - INFO - System health check passed
+2025-08-07 07:08:17,051 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:08:17,053 - __main__ - INFO - System health check passed
+2025-08-07 07:08:18,467 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:08:18,469 - __main__ - INFO - System health check passed
+2025-08-07 07:16:37,915 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:37,964 - __main__ - INFO - System health check passed
+2025-08-07 07:16:38,770 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:38,780 - __main__ - INFO - System health check passed
+2025-08-07 07:16:43,577 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:43,585 - __main__ - INFO - System health check passed
+2025-08-07 07:16:43,776 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:43,777 - __main__ - INFO - System health check passed
+2025-08-07 07:16:44,754 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:44,762 - __main__ - INFO - System health check passed
+2025-08-07 07:16:50,282 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:50,286 - __main__ - INFO - System health check passed
+2025-08-07 07:16:50,816 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:16:50,818 - __main__ - INFO - System health check passed
+2025-08-07 07:18:30,850 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:30,959 - __main__ - INFO - System health check passed
+2025-08-07 07:18:33,732 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:33,752 - __main__ - INFO - System health check passed
+2025-08-07 07:18:35,050 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:35,062 - __main__ - INFO - System health check passed
+2025-08-07 07:18:36,134 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:36,141 - __main__ - INFO - System health check passed
+2025-08-07 07:18:37,055 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:37,059 - __main__ - INFO - System health check passed
+2025-08-07 07:18:49,052 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:49,068 - __main__ - INFO - System health check passed
+2025-08-07 07:18:49,289 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:49,292 - __main__ - INFO - System health check passed
+2025-08-07 07:18:49,990 - __main__ - WARNING - GEMINI_API_KEY not configured. Using mock responses for demo.
+2025-08-07 07:18:49,991 - __main__ - INFO - System health check passed
+2025-08-07 07:20:11,543 - __main__ - INFO - System health check passed
+2025-08-07 07:20:26,693 - __main__ - INFO - System health check passed
+2025-08-07 07:20:33,864 - __main__ - INFO - System health check passed
+2025-08-07 07:20:34,576 - __main__ - INFO - System health check passed
+2025-08-07 07:20:49,505 - __main__ - INFO - System health check passed
+2025-08-07 07:20:50,392 - __main__ - INFO - System health check passed
+2025-08-07 07:21:57,856 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-07 07:21:57,856 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 07:22:03,048 - __main__ - INFO - Initializing medical knowledge base...
+2025-08-07 07:22:04,010 - __main__ - INFO - Added 6 documents to vector store
+2025-08-07 07:22:04,010 - __main__ - INFO - Medical knowledge base initialized successfully
+2025-08-07 07:22:04,019 - __main__ - INFO - System health check passed
+2025-08-07 07:22:14,153 - __main__ - INFO - System health check passed
+2025-08-07 07:22:14,182 - __main__ - INFO - Processing query: 'Hello...'
+2025-08-07 07:22:14,183 - __main__ - INFO - Starting vector search...
+2025-08-07 07:22:14,183 - __main__ - INFO - Searching for query: 'Hello...' with threshold 0.4
+2025-08-07 07:22:14,917 - __main__ - INFO - Search returned scores: [0.06026629 0.04314251 0.03187729]
+2025-08-07 07:22:14,917 - __main__ - INFO - Checking doc 2: score=0.060, threshold=0.4
+2025-08-07 07:22:14,917 - __main__ - INFO - Document 2 below threshold (0.060 < 0.4)
+2025-08-07 07:22:14,917 - __main__ - INFO - Checking doc 5: score=0.043, threshold=0.4
+2025-08-07 07:22:14,917 - __main__ - INFO - Document 5 below threshold (0.043 < 0.4)
+2025-08-07 07:22:14,917 - __main__ - INFO - Checking doc 0: score=0.032, threshold=0.4
+2025-08-07 07:22:14,917 - __main__ - INFO - Document 0 below threshold (0.032 < 0.4)
+2025-08-07 07:22:14,917 - __main__ - INFO - Checking doc 4: score=0.010, threshold=0.4
+2025-08-07 07:22:14,917 - __main__ - INFO - Document 4 below threshold (0.010 < 0.4)
+2025-08-07 07:22:14,917 - __main__ - INFO - Checking doc 3: score=-0.017, threshold=0.4
+2025-08-07 07:22:14,917 - __main__ - INFO - Document 3 below threshold (-0.017 < 0.4)
+2025-08-07 07:22:14,917 - __main__ - INFO - Returning 0 results above threshold
+2025-08-07 07:22:14,917 - __main__ - INFO - Retrieved 0 documents
+2025-08-07 07:22:14,917 - __main__ - WARNING - No documents retrieved above threshold, lowering threshold
+2025-08-07 07:22:14,917 - __main__ - INFO - Searching for query: 'Hello...' with threshold 0.3
+2025-08-07 07:22:14,928 - __main__ - INFO - Search returned scores: [0.06026629 0.04314251 0.03187729]
+2025-08-07 07:22:14,928 - __main__ - INFO - Checking doc 2: score=0.060, threshold=0.3
+2025-08-07 07:22:14,928 - __main__ - INFO - Document 2 below threshold (0.060 < 0.3)
+2025-08-07 07:22:14,928 - __main__ - INFO - Checking doc 5: score=0.043, threshold=0.3
+2025-08-07 07:22:14,928 - __main__ - INFO - Document 5 below threshold (0.043 < 0.3)
+2025-08-07 07:22:14,928 - __main__ - INFO - Checking doc 0: score=0.032, threshold=0.3
+2025-08-07 07:22:14,928 - __main__ - INFO - Document 0 below threshold (0.032 < 0.3)
+2025-08-07 07:22:14,928 - __main__ - INFO - Checking doc 4: score=0.010, threshold=0.3
+2025-08-07 07:22:14,928 - __main__ - INFO - Document 4 below threshold (0.010 < 0.3)
+2025-08-07 07:22:14,928 - __main__ - INFO - Checking doc 3: score=-0.017, threshold=0.3
+2025-08-07 07:22:14,928 - __main__ - INFO - Document 3 below threshold (-0.017 < 0.3)
+2025-08-07 07:22:14,929 - __main__ - INFO - Returning 0 results above threshold
+2025-08-07 07:22:14,929 - __main__ - INFO - Retrieved 0 documents with lower threshold
+2025-08-07 07:22:14,929 - __main__ - WARNING - No relevant documents found, using general medical knowledge
+2025-08-07 07:22:15,110 - __main__ - INFO - System health check passed
+2025-08-07 07:22:37,154 - __main__ - INFO - System health check passed
+2025-08-07 07:22:37,343 - __main__ - INFO - System health check passed
+2025-08-07 07:22:37,355 - __main__ - INFO - Processing query: 'What are the symptoms of respiratory infections?...'
+2025-08-07 07:22:37,355 - __main__ - INFO - Starting vector search...
+2025-08-07 07:22:37,356 - __main__ - INFO - Searching for query: 'What are the symptoms of respiratory infections?...' with threshold 0.4
+2025-08-07 07:22:38,022 - __main__ - INFO - Search returned scores: [0.6753279  0.36830586 0.33120117]
+2025-08-07 07:22:38,023 - __main__ - INFO - Checking doc 0: score=0.675, threshold=0.4
+2025-08-07 07:22:38,023 - __main__ - INFO - Checking doc 2: score=0.368, threshold=0.4
+2025-08-07 07:22:38,023 - __main__ - INFO - Document 2 below threshold (0.368 < 0.4)
+2025-08-07 07:22:38,023 - __main__ - INFO - Checking doc 4: score=0.331, threshold=0.4
+2025-08-07 07:22:38,023 - __main__ - INFO - Document 4 below threshold (0.331 < 0.4)
+2025-08-07 07:22:38,023 - __main__ - INFO - Checking doc 3: score=0.143, threshold=0.4
+2025-08-07 07:22:38,023 - __main__ - INFO - Document 3 below threshold (0.143 < 0.4)
+2025-08-07 07:22:38,023 - __main__ - INFO - Checking doc 1: score=0.105, threshold=0.4
+2025-08-07 07:22:38,023 - __main__ - INFO - Document 1 below threshold (0.105 < 0.4)
+2025-08-07 07:22:38,023 - __main__ - INFO - Returning 1 results above threshold
+2025-08-07 07:22:38,023 - __main__ - INFO - Retrieved 1 documents
+2025-08-07 07:22:38,023 - __main__ - INFO - Doc 0: Respiratory Conditions and Symptoms (score: 0.675)
+2025-08-07 07:22:38,023 - __main__ - INFO - Prepared context length: 1130 characters
+2025-08-07 07:22:38,023 - __main__ - INFO - Generating response with Gemini
+2025-08-07 07:22:42,501 - __main__ - INFO - Generated response with method: rag_llm, confidence: low
+2025-08-07 07:22:42,725 - __main__ - INFO - System health check passed
+2025-08-07 07:26:08,499 - __main__ - INFO - System health check passed
+2025-08-07 07:26:08,623 - __main__ - INFO - Processing query: 'I can't breathe...'
+2025-08-07 07:26:08,623 - __main__ - INFO - Emergency detected, returning safety response
+2025-08-07 07:26:08,995 - __main__ - INFO - System health check passed
+2025-08-07 07:28:33,764 - __main__ - INFO - System health check passed
+2025-08-07 07:28:33,781 - __main__ - INFO - Processing query: 'I CAN'T BREATHE...'
+2025-08-07 07:28:33,781 - __main__ - INFO - Emergency detected, returning safety response
+2025-08-07 07:28:34,041 - __main__ - INFO - System health check passed
+2025-08-07 07:28:41,653 - __main__ - INFO - System health check passed
+2025-08-07 07:28:47,912 - __main__ - INFO - System health check passed
+2025-08-07 07:28:47,976 - __main__ - INFO - Processing query: 'I CAN'T BREATHE...'
+2025-08-07 07:28:47,977 - __main__ - INFO - Emergency detected, returning safety response
+2025-08-07 07:28:48,190 - __main__ - INFO - System health check passed
+2025-08-07 07:28:53,979 - __main__ - INFO - System health check passed
+2025-08-07 07:28:54,185 - __main__ - INFO - System health check passed
+2025-08-07 07:29:30,334 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-07 07:29:30,334 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 07:29:35,383 - __main__ - INFO - Initializing medical knowledge base...
+2025-08-07 07:29:36,345 - __main__ - INFO - Added 6 documents to vector store
+2025-08-07 07:29:36,346 - __main__ - INFO - Medical knowledge base initialized successfully
+2025-08-07 07:29:36,356 - __main__ - INFO - System health check passed
+2025-08-07 08:34:03,046 - __main__ - INFO - System health check passed
+2025-08-07 08:34:03,068 - __main__ - INFO - Processing query: 'I can't breathe...'
+2025-08-07 08:34:03,068 - __main__ - INFO - Emergency detected, returning safety response
+2025-08-07 08:34:03,801 - __main__ - INFO - System health check passed
+2025-08-26 07:02:42,719 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-26 07:02:42,719 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-26 07:02:47,224 - __main__ - INFO - Initializing medical knowledge base...
+2025-08-26 07:02:47,650 - __main__ - INFO - Added 6 documents to vector store
+2025-08-26 07:02:47,650 - __main__ - INFO - Medical knowledge base initialized successfully
+2025-08-26 07:02:47,661 - __main__ - INFO - System health check passed
+2025-08-26 07:40:53,615 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-08-26 07:40:53,615 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-26 07:40:58,801 - __main__ - INFO - Initializing medical knowledge base...
+2025-08-26 07:40:59,230 - __main__ - INFO - Added 6 documents to vector store
+2025-08-26 07:40:59,230 - __main__ - INFO - Medical knowledge base initialized successfully
+2025-08-26 07:40:59,239 - __main__ - INFO - System health check passed
